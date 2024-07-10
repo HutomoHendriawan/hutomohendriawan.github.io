@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #1b1a55;
+  color: #9290c3;
+}
+
+/* .jumbotron img {
+  width: 300px;
+  min-width: 250px;
+  margin: auto;
+}
+ */
+
+footer {
+  background-color: #1b1a55;
+  color: #9290c3;
+}
+
+section {
+  padding-top: 5rem;
+}
