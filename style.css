@@ -19,3 +19,11 @@ footer {
 section {
   padding-top: 5rem;
 }
+
+.experience-img {
+  width: 100%;
+}
+
+#experience .row > * {
+  padding: 0;
+}
